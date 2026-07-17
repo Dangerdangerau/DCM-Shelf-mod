@@ -1,0 +1,12 @@
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\bin\Release\ShelfMod.deps.json
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\bin\Release\ShelfMod.dll
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\bin\Release\ShelfMod.pdb
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Debug\ShelfMod.csproj.AssemblyReference.cache
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Debug\ShelfMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Debug\ShelfMod.AssemblyInfoInputs.cache
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Debug\ShelfMod.AssemblyInfo.cs
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Debug\ShelfMod.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Debug\ShelfMod.dll
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Debug\refint\ShelfMod.dll
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Debug\ShelfMod.pdb
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Debug\ref\ShelfMod.dll

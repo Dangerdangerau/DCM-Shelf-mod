@@ -1,0 +1,24 @@
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.csproj.AssemblyReference.cache
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.AssemblyInfoInputs.cache
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.AssemblyInfo.cs
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\bin\Release\ShelfMod.deps.json
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\bin\Release\ShelfMod.dll
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\bin\Release\ShelfMod.pdb
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.dll
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Release\refint\ShelfMod.dll
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.pdb
+C:\Users\charl\OneDrive\Documents\DataCenterShelfMod\ShelfMod\obj\Release\ref\ShelfMod.dll
+C:\Program Files (x86)\Steam\steamapps\common\Data Center\DataCenterShelfMod\ShelfMod\bin\Release\ShelfMod.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\Data Center\DataCenterShelfMod\ShelfMod\bin\Release\ShelfMod.dll
+C:\Program Files (x86)\Steam\steamapps\common\Data Center\DataCenterShelfMod\ShelfMod\bin\Release\ShelfMod.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Data Center\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\Data Center\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\Data Center\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Data Center\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\Data Center\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Data Center\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.dll
+C:\Program Files (x86)\Steam\steamapps\common\Data Center\DataCenterShelfMod\ShelfMod\obj\Release\refint\ShelfMod.dll
+C:\Program Files (x86)\Steam\steamapps\common\Data Center\DataCenterShelfMod\ShelfMod\obj\Release\ShelfMod.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Data Center\DataCenterShelfMod\ShelfMod\obj\Release\ref\ShelfMod.dll
